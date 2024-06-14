@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prasad Girdhari</h1>
 <h3 align="center">📊 Data Analyst | Turning Data into Insights | Python| SQL | Visualization</h3>
 
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3TgedXwXa5W4GApKxZ8kRe&ust=1718470335868000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPjDwILH24YDFQAAAAAdAAAAABAP">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadgirdhari11&label=Profile%20views&color=0e75b6&style=flat" alt="prasadgirdhari11" /> </p>
 
 - 📫 How to reach me **prasadgirdhari11@gmail.com**
